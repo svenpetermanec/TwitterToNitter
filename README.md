@@ -7,4 +7,4 @@
     
 -   For Opera -  [https://addons.opera.com/en/extensions/details/tampermonkey-beta/](https://addons.opera.com/en/extensions/details/tampermonkey-beta/);    
 
-2.  Open link:  [https://github.com/svenpetermanec/TwitterToNitter/raw/master/script.user.js](https://github.com/xonrsoftware/SteamBrowserModDownloader/raw/master/script.user.js)  and click "Install";
+2.  Open link:  [https://github.com/svenpetermanec/TwitterToNitter/raw/master/script.user.js](https://github.com/svenpetermanec/TwitterToNitter/raw/master/script.user.js)  and click "Install";
