@@ -5,6 +5,8 @@
 // @author       Sven Petermanec
 // @match        https://twitter.com/*
 // @match        https://mobile.twitter.com/*
+// @updateURL    https://github.com/svenpetermanec/TwitterToNitter/raw/master/script.user.js
+// @downloadURL  https://github.com/svenpetermanec/TwitterToNitter/raw/master/script.user.js
 // @grant        none
 // @run-at       document-start
 // @license      MIT
